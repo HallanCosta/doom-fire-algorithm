@@ -12,5 +12,5 @@ Doom fire effect implemented in JavaScript. Feel free to submit your experiment 
 
 ---
 # Author
-| [<img src="https://avatars2.githubusercontent.com/u/60573155?s=60&v=4"><br><sub>@HallanCosta</sub>](https://github.com/HallanCosta) |
+| [<img src="https://avatars2.githubusercontent.com/u/60573155?s=115&v=3"><br><sub>@HallanCosta</sub>](https://github.com/HallanCosta) |
 | :---: |
